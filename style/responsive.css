@@ -1,0 +1,38 @@
+@media screen and (max-width: 1024px) {
+    .frame1 {
+        height: 800px;
+    }
+
+    .text>p {
+        margin-bottom: 50px;
+    }
+
+    .workblock{
+        justify-content: center !important;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .header {
+        padding: 0 50px;
+    }
+
+    .frame1 {
+        height: 500px;
+    }
+
+    .ourstories {
+        padding: 0 40px 50px;
+    }
+}
+
+@media screen and (max-width: 481px) {
+    .frame1 {
+        height: 440px;
+    }
+
+    .text>p {
+        margin-bottom: 5px;
+    }
+}
+
